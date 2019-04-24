@@ -2,12 +2,6 @@
 
 ## Objectives
 
-You will be able to:
-
-* Understand and describe the significance of measuring central tendency of continuous data
-* Understand the formula and intuition behind the mean, median, and mode
-* Compare mean, median, and mode.
-
 While we recommend using python to find the answers to these questions, it is not required. You are more than welcome to use a calculator or pencil and paper to solve them, too.
 
 ???
