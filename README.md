@@ -1,10 +1,12 @@
-# Measures of Central Tendency - Quiz
+# Measures of Central Tendency
 
 ## Objectives
 
 While we recommend using python to find the answers to these questions, it is not required. You are more than welcome to use a calculator or pencil and paper to solve them, too.
 
 ???
+
+# Quiz - Measures of Central Tendency
 
 ?: What is the mean for the following dataset: 19, 18, 21, 16, 15, 17, 20, 18 ?
 
