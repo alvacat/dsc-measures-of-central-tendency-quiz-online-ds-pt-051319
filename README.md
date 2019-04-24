@@ -12,36 +12,28 @@ While we recommend using python to find the answers to these questions, it is no
 
 ???
 
-?: Calculate the mean for the following dataset:
-
-19, 18, 21, 16, 15, 17, 20, 18
+?: Calculate the mean for the following dataset: 19, 18, 21, 16, 15, 17, 20, 18
 
 (X) 18
 ( ) 16.5
 ( ) 16
 ( ) 18.5
 
-?: Calculate the median for the following dataset:
-
-22, 56, 11, 4, -17, 6, 80
+?: Calculate the median for the following dataset: 22, 56, 11, 4, -17, 6, 80
 
 ( ) 4
 ( ) -17
 (X) 11
 ( ) 8.5
 
-?: Calculate the median for the following dataset:
-
-22, 56, 11, 4, -17, 6, 80, -126
+?: Calculate the median for the following dataset: 22, 56, 11, 4, -17, 6, 80, -126
 
 ( ) 4
 ( ) -17
 ( ) 11
 (X) 8.5
 
-?: Calculate the mode of the following dataset:
-
-19, 18, 21, 16, 15, 17, 20, 18
+?: Calculate the mode of the following dataset: 19, 18, 21, 16, 15, 17, 20, 18
 
 (X) 18
 ( ) 16.5
