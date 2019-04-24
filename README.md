@@ -2,6 +2,10 @@
 
 ## Objectives
 
+* Understand and describe the significance of measuring central tendency of continuous data
+* Understand the formula and intuition behind the mean, median, mode and modal class
+* Compare mean-median-mode, along with histograms to explain the central tendency of given data
+
 While we recommend using python to find the answers to these questions, it is not required. You are more than welcome to use a calculator or pencil and paper to solve them, too.
 
 ???
