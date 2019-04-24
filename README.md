@@ -12,6 +12,7 @@ While we recommend using python to find the answers to these questions, it is no
 
 ???
 
+# Quiz - Measures of Central Tendency
 ?: Calculate the mean for the following dataset: 19, 18, 21, 16, 15, 17, 20, 18
 
 (X) 18
